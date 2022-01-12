@@ -1,8 +1,8 @@
 {
     "params":
     {
-        "user":"epsi2k",
-        "password":"epsi2k",
+        "user":"exampleuser",
+        "password":"examplepassword",
         "gmail-user":"example@gmail.com",
         "gmail-password":"password"
     }

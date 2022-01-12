@@ -19,11 +19,13 @@ NOTE : These credentials should be private so delete them if and when you share 
 install the latest version of python in your machine
 then install the following requirements using 'pip' 
 
-pip install flask
-pip install mysqlclient
-pip install flask sql alchemy
-pip install flask login
-pip install flask mail
+<ul>
+<li>pip install flask
+<li>pip install mysqlclient
+<li>pip install flask sql alchemy
+<li>pip install flask login
+<li>pip install flask mail
+</ul>
 
 After these changes you should be able to use the project by running the main.py file.
 
